@@ -18,6 +18,7 @@ This repo contains all my coding assignments and experiments related to implemen
 
 **Vu Thanh Binh**
 AI in Control – HCMUT (2025)
+
 📧 binh.vusvbachkhoa@hcmut.edu.vn
 
 ---
@@ -28,5 +29,6 @@ Thanks to the teacher phD.**Pham Viet Cuong** and teammates for their guidance a
 Special thanks to the following resources that greatly supported my understanding and implementation of the algorithms:
 
 Forum Machine Learning Cơ bản: https://machinelearningcoban.com/
+
 github: /eriklindernoren/ML-From-Scratch 
 
