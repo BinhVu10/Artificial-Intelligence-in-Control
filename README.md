@@ -6,6 +6,8 @@ This repo contains all my coding assignments and experiments related to implemen
 ---
 
 ## 🧠 Implemented Algorithms
+> This section is continuously updated with new algorithms and experiments as the course progresses.
+
 | Algorithm | Description | File |
 |------------|-------------|------|
 | **Perceptron (2D)** | Basic perceptron model for binary classification on 2D data. | `perceptron2D.py` |
