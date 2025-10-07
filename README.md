@@ -1,6 +1,6 @@
 # 🤖 Artificial Intelligence in Control
 
-Welcome to my repository for the **AI in Control** course!  
+Welcome to my repository for the **Artificial Intelligence in Control** course!  
 This repo contains all my coding assignments and experiments related to implementation of Machine Learning, Deep Learning, and more.
 
 ---
