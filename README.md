@@ -19,14 +19,15 @@ This repo contains all my coding assignments and experiments related to implemen
 👤 Author
 
 **Vu Thanh Binh**
-AI in Control – HCMUT (2025)
+
+Artificial Intelligence in Control – HCMUT (2025)
 
 📧 binh.vusvbachkhoa@hcmut.edu.vn
 
 ---
 ## 🙏 Acknowledgment  
 
-This repository was developed as part of the *AI in Control* course at HCMUT (2025).  
+This repository was developed as part of the *Artificial Intelligence in Control* course at HCMUT (2025).  
 I would like to express my sincere gratitude to **PhD. Pham Viet Cuong** and my teammates for their guidance and support throughout the course.  
 
 Special thanks to the following resources that greatly contributed to my understanding and implementation of the algorithms:  
