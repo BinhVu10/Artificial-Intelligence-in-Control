@@ -12,7 +12,6 @@ This repo contains all my coding assignments and experiments related to implemen
 |------------|-------------|------|
 | **Perceptron (2D)** | Basic perceptron model for binary classification on 2D data. | `perceptron2D.py` |
 | **Perceptron (3D)** | Extended perceptron implementation for 3D data visualization. | `perceptron3D.py` |
-| **Perceptron Notebook** | Interactive exploration and visualization. | `perceptron.ipynb` |
 | **K-Means Clustering** | Unsupervised learning algorithm for data segmentation. | `Kmeans.ipynb` |
 
 ---
