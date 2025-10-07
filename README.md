@@ -5,12 +5,6 @@ This repo contains all my coding assignments and experiments related to implemen
 
 ---
 
-## 📘 Overview
-This project explores the integration of **Artificial Intelligence** techniques into control theory through a set of hands-on exercises.  
-Each notebook focuses on a key concept in machine learning and its application to control systems.
-
----
-
 ## 🧠 Implemented Algorithms
 | Algorithm | Description | File |
 |------------|-------------|------|
@@ -22,6 +16,17 @@ Each notebook focuses on a key concept in machine learning and its application t
 ---
 👤 Author
 
-Vu Thanh Binh
+**Vu Thanh Binh**
 AI in Control – HCMUT (2025)
 📧 binh.vusvbachkhoa@hcmut.edu.vn
+
+---
+## 🙏 Acknowledgment
+This repository was developed as part of the *AI in Control* course at HCMUT (2025).  
+Thanks to the teacher phD.**Pham Viet Cuong** and teammates for their guidance and assistant.
+
+Special thanks to the following resources that greatly supported my understanding and implementation of the algorithms:
+
+Forum Machine Learning Cơ bản: https://machinelearningcoban.com/
+github: /eriklindernoren/ML-From-Scratch 
+
