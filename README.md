@@ -18,19 +18,17 @@ This repo contains all my coding assignments and experiments related to implemen
 
 **Vu Thanh Binh**
 AI in Control – HCMUT (2025)
+
 📧 binh.vusvbachkhoa@hcmut.edu.vn
 
 ---
-## 🙏 Acknowledgment
+## 🙏 Acknowledgment  
+
 This repository was developed as part of the *AI in Control* course at HCMUT (2025).  
-Thanks to the teacher phD.**Pham Viet Cuong** and teammates for their guidance and assistant.
+I would like to express my sincere gratitude to **PhD. Pham Viet Cuong** and my teammates for their guidance and support throughout the course.  
 
-Special thanks to the following resources that greatly supported my understanding and implementation of the algorithms:
+Special thanks to the following resources that greatly contributed to my understanding and implementation of the algorithms:  
+- [Machine Learning Cơ Bản](https://machinelearningcoban.com/) — an excellent Vietnamese resource that helped strengthen my foundational knowledge of machine learning.  
+- [ML-From-Scratch by Erik Linder-Norén](https://github.com/eriklindernoren/ML-From-Scratch) — an open-source GitHub repository that provided valuable insights into implementing machine learning algorithms from the ground up.
 
-Forum Machine Learning Cơ bản: https://machinelearningcoban.com/
-github: [/eriklindernoren/ML-From-Scratch ](https://github.com/eriklindernoren/ML-From-Scratch)
-
-        https://github.com/tiepvupsu/tiepvupsu.github.io 
-        
-      
 
