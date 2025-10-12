@@ -10,8 +10,8 @@ This repo contains all my coding assignments and experiments related to implemen
 
 | Algorithm | Description | File |
 |------------|-------------|------|
-| **Perceptron (2D & 3D)** | Basic perceptron model for binary classification on 2D and 3D data. | `perceptron2D.py' <br> 'perceptron3D.py`|
-| **K-Means Clustering** | Unsupervised learning algorithm for clustering. | `Kmeans.ipynb` <br> 'WorldHappinessClustering.ipynb' |
+| **Perceptron (2D & 3D)** | Basic perceptron model for binary classification on 2D and 3D data. | `perceptron2D.py` <br> `perceptron3D.py`|
+| **K-Means Clustering** | Unsupervised learning algorithm for clustering. | `Kmeans.ipynb` <br> `WorldHappinessClustering.ipynb` |
 
 ---
 👤 Author
